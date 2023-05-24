@@ -64,6 +64,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             // This is an update
+            // Yo how r u master?
             CustomScaffold()
         }
     }
